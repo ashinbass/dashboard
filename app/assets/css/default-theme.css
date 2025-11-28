@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+@layer theme {
+  @theme static {
+    --color-header-background: #353C70;
+  }
+}
